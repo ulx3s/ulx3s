@@ -6,7 +6,8 @@
 
   (title_block
     (title "ULX3S")
-    (rev "3.1.7")
+    (date "2023-01-19")
+    (rev "3.1.8")
     (company "EMARD")
     (comment 1 "Root sheet")
   )
@@ -884,7 +885,7 @@
       (reference "#PWR0181") (unit 1) (value "+1V1") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000058d6bf46/00000000-0000-0000-0000-000059c3ae47"
-      (reference "AE1") (unit 1) (value "433MHz") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "AE1") (unit 1) (value "433MHz") (footprint "USB-C:1013706200021LF")
     )
     (path "/00000000-0000-0000-0000-000058d82bd0/00000000-0000-0000-0000-000058d82c05"
       (reference "AUDIO1") (unit 1) (value "JACK_TRS_6PINS") (footprint "audio-jack:CUI_SJ-43516-SMT")
@@ -1247,7 +1248,7 @@
       (reference "J3") (unit 1) (value "WIFI_OFF") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000058d6bf46/00000000-0000-0000-0000-0000591e0e6a"
-      (reference "J4") (unit 1) (value "CONN_02X03") (footprint "Socket_Strips:Socket_Strip_Straight_2x03")
+      (reference "J4") (unit 1) (value "CONN_02X03") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD")
     )
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-00005aa2a24d"
       (reference "J5") (unit 1) (value "VJ1") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -1268,7 +1269,7 @@
       (reference "L5") (unit 1) (value "33uH") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000058d6547c/00000000-0000-0000-0000-000058e6d4ac"
-      (reference "LCD1") (unit 1) (value "ST7789") (footprint "st7789:st7789")
+      (reference "LCD1") (unit 1) (value "ST7789") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left")
     )
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-000058d89315"
       (reference "Q1") (unit 1) (value "BC857") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -1581,6 +1582,9 @@
     )
     (path "/00000000-0000-0000-0000-000058d6bf46/00000000-0000-0000-0000-000058d6c841"
       (reference "US2") (unit 1) (value "MICRO_USB") (footprint "usb_otg:USB-MICRO-B-FCI-10118192-0001LF")
+    )
+    (path "/00000000-0000-0000-0000-000058da7327/66b36f77-acd4-43da-b8b3-b246600b6efe"
+      (reference "US3") (unit 1) (value "10137062-00021LF") (footprint "USB-C:1013706200021LF")
     )
     (path "/00000000-0000-0000-0000-000058d6bf46/00000000-0000-0000-0000-00005a079883"
       (reference "Y1") (unit 1) (value "FNETHE025") (footprint "oscxo:Crystal_SMD_7050_4Pads")

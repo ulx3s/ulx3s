@@ -6,7 +6,8 @@
 
   (title_block
     (title "ULX3S")
-    (rev "1.0.3")
+    (date "2023-01-19")
+    (rev "3.1.8")
     (company "EMARD")
     (comment 1 "Buttons, LEDs, OLED display")
   )
@@ -1326,7 +1327,7 @@
     (uuid 00000000-0000-0000-0000-000058e6d4ac)
     (property "Reference" "LCD1" (id 0) (at 110.49 39.37 0))
     (property "Value" "ST7789" (id 1) (at 107.95 39.37 0))
-    (property "Footprint" "st7789:st7789" (id 2) (at 115.57 39.37 90)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left" (id 2) (at 115.57 39.37 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://drive.google.com/file/d/0B5lkVYnewKTGRlpxcEdWaXNvWnM/view" (id 3) (at 115.57 39.37 0)
