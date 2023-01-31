@@ -1248,7 +1248,7 @@
       (reference "J3") (unit 1) (value "WIFI_OFF") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000058d6bf46/00000000-0000-0000-0000-0000591e0e6a"
-      (reference "J4") (unit 1) (value "CONN_02X03") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD")
+      (reference "J4") (unit 1) (value "CONN_02X03") (footprint "Connector_PinSocket_1.27mm:PinSocket_2x03_P1.27mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-00005aa2a24d"
       (reference "J5") (unit 1) (value "VJ1") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -1495,6 +1495,12 @@
     )
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-000058d62976"
       (reference "RB3") (unit 1) (value "3.3k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-000058d51cad/640aa205-46f0-40f8-b55c-cf330151d82b"
+      (reference "RC1") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-000058d51cad/14c523f7-2626-4fc4-bf01-702528e5317d"
+      (reference "RC2") (unit 1) (value "91k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-000059dfb08a"
       (reference "RP1") (unit 1) (value "0") (footprint "jumper:R_0805_2012Metric_Pad1.29x1.40mm_HandSolder_Jumper_NC")

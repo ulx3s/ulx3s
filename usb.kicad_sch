@@ -3979,7 +3979,7 @@
     (uuid 00000000-0000-0000-0000-0000591e0e6a)
     (property "Reference" "J4" (id 0) (at 237.49 121.92 0))
     (property "Value" "CONN_02X03" (id 1) (at 237.49 132.08 0))
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical_SMD" (id 2) (at 237.49 157.48 0)
+    (property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_2x03_P1.27mm_Vertical" (id 2) (at 237.49 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 237.49 157.48 0))
