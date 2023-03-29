@@ -37,6 +37,7 @@
       5,
       6,
       7,
+      8,
       9,
       10,
       11,
@@ -60,12 +61,13 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       37
     ],
-    "visible_layers": "ffc0000_7fffffff",
-    "zone_display_mode": 1
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ulx3s.kicad_prl",
