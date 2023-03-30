@@ -1252,6 +1252,12 @@
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-00005aa2a24d"
       (reference "J5") (unit 1) (value "VJ1") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
+    (path "/00000000-0000-0000-0000-000058da7327/577e4767-c282-455c-8a8d-133553030f7a"
+      (reference "J6") (unit 1) (value "SR_CLK") (footprint "Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-000058da7327/eb4476b0-f9fe-44c4-9e71-8e3396301717"
+      (reference "J7") (unit 1) (value "SR_TX01") (footprint "Connector_PinSocket_1.00mm:PinSocket_1x02_P1.00mm_Vertical")
+    )
     (path "/00000000-0000-0000-0000-000058d51cad/00000000-0000-0000-0000-00005a73c9eb"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "L_1008_1210:L_1008_1210")
     )
